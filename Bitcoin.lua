@@ -1,5 +1,5 @@
 local required = {
-    game.HttpGet, game.GetObjects, getfenv, require
+    game.HttpGet, game.GetObjects, getfenv, require, fireclickdetector
 }
 
 for i,v in pairs(required) do
