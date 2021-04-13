@@ -4,3 +4,6 @@ end
 if game.PlaceId == 2232225661 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/KatanaSim.lua'))()
 end
+if game.PlaceId == 142823291 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/MurderM.lua'))()
+end
