@@ -19,3 +19,6 @@ end
 if game.PlaceId == 6373052709 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/NotrufFrankfurt.lua'))()
 end
+if game.PlaceId == 6145747587 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/SleepingSimulator.lua'))()
+end
