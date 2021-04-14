@@ -10,3 +10,6 @@ end
 if game.PlaceId == 4991214437 then
    loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/Home.lua'))()
 end
+if game.PlaceId == 5105402035 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/SoapSim.lua'))()
+end
