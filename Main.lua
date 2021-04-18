@@ -22,3 +22,6 @@ end
 if game.PlaceId == 6145747587 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/SleepingSimulator.lua'))()
 end
+if game.PlaceId == 5900081519 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/UFGwB.lua'))()
+end
