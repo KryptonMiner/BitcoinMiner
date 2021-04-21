@@ -16,8 +16,8 @@ end
 if game.PlaceId == 2808131030 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/AreaOL.lua'))()
 end
-if game.PlaceId == 6373052709 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/NotrufFrankfurt.lua'))()
+if game.PlaceId == 537413528 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/BaB.lua'))()
 end
 if game.PlaceId == 6145747587 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/SleepingSimulator.lua'))()
