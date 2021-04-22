@@ -28,3 +28,6 @@ end
 if game.PlaceId == 5852812686 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/Candy_Clicking_Simulator.lua'))()
 end
+if game.PlaceId == 2041312716 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/RagdollEngine.lua'))()
+end
