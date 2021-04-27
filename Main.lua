@@ -34,4 +34,8 @@ end
 if game.PlaceId == 6488220605 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/SAASTFO.lua'))()
 end
+if game.PlaceId == 4924922222 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/KryptonMiner/BitcoinMiner/main/Brookhaven.lua'))()
+end
+
 
